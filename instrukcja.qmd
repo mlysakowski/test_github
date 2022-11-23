@@ -22,3 +22,14 @@ Przed przystąpieniem do połączenia RStudio z Git należy wykonać następują
 Po przejściu na stronę <http://github.com> [![Strona tytułowa GitHub](images/GitHub-02.png)](http://github.com)
 
 Wpisz swojego maila i kliknij Sign up for GitHub. Nadaj hasło (którego nie ustostępniaj nikomu) i ciesz się z konta GitHub.
+
+## Ad 2.
+
+Jeśli nie posiadasz na komputerze programów R i Rstudio, to zainstaluj je ze stron <https://cran.r-project.org/bin/windows/base/>, <https://posit.co/download/rstudio-desktop/> . Natomiast jeśli powyższe programy są już zainstalowane na twoim komputerze, to sprawdź czy powiadasz najnowszą wersję tych programów.
+
+```{r}
+#Za pomocą tej komendy można sprawdzić wersję R
+R.version
+```
+
+![](images/rstudio_version.png)
