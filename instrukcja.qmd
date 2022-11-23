@@ -1,0 +1,24 @@
+---
+title: "Korzystanie z Git w RStudio"
+author: "Michał Łysakowski"
+format: html
+editor: visual
+editor_options: 
+  chunk_output_type: console
+---
+
+## Przygotowanie o połączenia RStudio z Git
+
+Przed przystąpieniem do połączenia RStudio z Git należy wykonać następujące czynności:
+
+1.  Załóż konto na stronie <http://github.com>.
+2.  Zainstaluj lub zaktualizuj R i RStudio do najnowszej wersji.
+3.  Zainstaluj Git ze strony <https://gitforwindows.org/>.
+4.  Podaj nazwę użytkownika oraz e-mail który będzie rozpoznawany przez Git.
+5.  Stwórz nowe repozytorium GitHub.
+
+## Ad 1.
+
+Po przejściu na stronę <http://github.com> [![Strona tytułowa GitHub](images/GitHub-02.png)](http://github.com)
+
+Wpisz swojego maila i kliknij Sign up for GitHub. Nadaj hasło (którego nie ustostępniaj nikomu) i ciesz się z konta GitHub.
